@@ -2,7 +2,7 @@
 
 Trouve ton Velo est un site web en React permettant a l'aide d'une API (jcdecaux) de savoir si des vélos sont disponibles et louable dans certaines partie de la France.
 
-![](https://github.com/BastienBYRA/VeloJCD-React/tree/master/video/presentation.gif)
+![](https://github.com/BastienBYRA/VeloJCD-React/blob/master/video/presentation.gif)
 
 # Comment faire fonctionner l'app localement ?
 
